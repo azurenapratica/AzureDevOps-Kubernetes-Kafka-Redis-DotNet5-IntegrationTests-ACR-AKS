@@ -3,4 +3,4 @@ Pipeline do Azure DevOps para execução automatizada de testes de integração 
 
 Projeto que serviu de base para a implementação deste Pipeline:
 
-https://github.com/renatogroffe/ASPNETCore5-Redis-Kafka_APIAcoes
+https://github.com/azurenapratica/DotNet5-WorkerService-Kafka-Redis-IntegrationTests_Acoes
