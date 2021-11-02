@@ -22,7 +22,7 @@ spec:
                 name: workeracoes-secret
                 key: RedisConnection
           - name: ApacheKafka__Topic
-            value: topic-acoes
+            value: topic-acoesprod
           - name: ApacheKafka__GroupId
             value: workeracoes
           - name: ApacheKafka__Broker
